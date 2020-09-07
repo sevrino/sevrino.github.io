@@ -9,7 +9,7 @@
 
 title: sevrino # the main title
 
-tagline: 평범한 초보 고등학생 개발자. # it will display as the sub-title
+tagline: 신수(가명)의 평범한 초보 고등학생 개발자. 취미로 프로그래밍해요. # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   A minimal, portfolio, sidebar,
@@ -21,7 +21,7 @@ url: "https://sevrino.github.io"
 
 author: 신재영 # change to your full name
 
-avatar: /assets/img/sample/avatar.jpg # support internet resources
+avatar: /assets/img/icon.jpg # support internet resources
 
 github:
   username: sevrino # change to your github username
@@ -75,7 +75,7 @@ disqus:
 #
 #     dark   - Use the dark color scheme
 #
-theme_mode: dual
+theme_mode: dark
 
 # boolean type, global switch for ToC in posts.
 toc: true

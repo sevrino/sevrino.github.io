@@ -4,6 +4,8 @@ author: sevrino
 date: 2020-09-08 01:06:00 +0900
 categories: [잡담]
 tags: [first_blogging]
+toc: true
+pin: false
 ---
 
 ## 서론

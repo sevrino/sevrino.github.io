@@ -4,6 +4,7 @@ author: sevrino
 date: 2020-09-08 01:06:00 +0900
 categories: [잡담]
 tags: []
+comments: true
 toc: true
 pin: false
 ---
